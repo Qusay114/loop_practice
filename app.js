@@ -9,7 +9,6 @@ if(animalName.toLowerCase() == "cat")
 {
     var image = "<img src='images/cat.jpg'>";
 }
-
 else
 {
     var image = "<img src='images/dog.jpg'>";
